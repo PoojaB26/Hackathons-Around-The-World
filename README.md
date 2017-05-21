@@ -4,4 +4,4 @@
 * AngelHack
 * MHacks, University of Michigan
 * [HackNY](http://hackny.org), NYU
-* [HackRU](hackru.org), Rutgers University
+* [HackRU](http://hackru.org), Rutgers University
