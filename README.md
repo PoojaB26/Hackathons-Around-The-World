@@ -34,3 +34,5 @@
 * 10x10 Hackathon
 * [TreeHacks](https://www.treehacks.com/)
 * [Global Hackathon Seoul](https://seoul.globalhackathon.io/)
+* [Global Hackathon](http://ai.hackathon.com/)
+* [hack rice](http://hack.rice.edu/)
