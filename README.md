@@ -1,7 +1,7 @@
 # Hackathons Worldwide
 * PennApps
 * HackMIT
-* AngelHack(http://angelhack.com/)
+* [AngelHack](http://angelhack.com/)
 * MHacks, University of Michigan
 * [HackNY](http://hackny.org), NYU
 * [HackRU](http://hackru.org), Rutgers University
