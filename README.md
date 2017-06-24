@@ -7,8 +7,8 @@
 
 * [mhacks NANO](https://mhacks.org)<br>
 **Date**: Jun 19 – 24, 2017<br>
-**Location**: *Online*
-**Travel Reimbursement**: N/A
+**Location**: *Online*<br>
+**Travel Reimbursement**: N/A<br>
 [**Registration**](https://mhacks.org)<br><br>
 
 
