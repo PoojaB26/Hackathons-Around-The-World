@@ -1,4 +1,9 @@
 # Hackathons Worldwide
+* [hack rice](http://hack.rice.edu/)<br>
+**Date**: 22 Sept - 24 Sept<br>
+**Travel Reimbursement**: Yes, upto 200$ <br>
+[**Registration Form**](https://hackrice.typeform.com/to/X4d286)<br><br>
+
 * PennApps
 * HackMIT
 * [AngelHack](http://angelhack.com/)
@@ -35,4 +40,4 @@
 * [TreeHacks](https://www.treehacks.com/)
 * [Global Hackathon Seoul](https://seoul.globalhackathon.io/)
 * [Global Hackathon](http://ai.hackathon.com/)
-* [hack rice](http://hack.rice.edu/)
+
