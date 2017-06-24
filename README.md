@@ -5,7 +5,7 @@
 **Travel Reimbursement**: Yes, upto 200$ <br>
 [**Registration Form**](https://hackrice.typeform.com/to/X4d286)<br><br>
 
-* [mhacks NANO]
+* [mhacks NANO](https://mhacks.org)<br>
 **Date**: Jun 19 – 24, 2017<br>
 **Location**: *Online*
 **Travel Reimbursement**: N/A
