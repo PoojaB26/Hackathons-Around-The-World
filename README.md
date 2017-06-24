@@ -1,7 +1,7 @@
 # Hackathons Worldwide
 * [hack rice](http://hack.rice.edu/)<br>
 **Date**: 22 Sept - 24 Sept 2017<br>
-**Location**: Houston, Texas
+**Location**: Houston, Texas<br>
 **Travel Reimbursement**: Yes, upto 200$ <br>
 [**Registration Form**](https://hackrice.typeform.com/to/X4d286)<br><br>
 
