@@ -1,4 +1,4 @@
-# Hackathons Around The World
+# Hackathons Around The World (2017)
 * [hack rice](http://hack.rice.edu/)<br>
 **Date**: 22 Sept - 24 Sept 2017<br>
 **Location**: Houston, Texas<br>
