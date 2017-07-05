@@ -11,7 +11,7 @@
 **Travel Reimbursement**: N/A<br>
 [**Registration**](https://mhacks.org)<br><br>
 
-* [PennApps](http://2017f.pennapps.com/)
+* [PennApps](http://2017f.pennapps.com/)<br>
 **Date**: Sept 8-10<br>
 **Location**: Philadelphia<br>
 **Travel Reimbursement**: Yes<br>
