@@ -15,13 +15,13 @@
 **Date**: Sept 8-10<br>
 **Location**: Philadelphia<br>
 **Travel Reimbursement**: Yes<br>
-[**Registration**](https://my.pennapps.com/)<br><br> Apply by mid July.
+[**Registration**](https://my.pennapps.com/)<br> Apply by mid July.<br><br>
 
 * [HackMIT](https://hackmit.org/)
 **Date**: Sept 16-17<br>
 **Location**: Massachusetts<br>
 **Travel Reimbursement**: Yes<br> upto 500$ for international and 200$ for local.
-[**Registration**]()
+[**Registration**]()<br><br>
 
 
 * [AngelHack](http://angelhack.com/)
