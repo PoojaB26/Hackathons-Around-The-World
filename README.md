@@ -11,9 +11,12 @@
 **Travel Reimbursement**: N/A<br>
 [**Registration**](https://mhacks.org)<br><br>
 
+* [PennApps](http://2017f.pennapps.com/)
+**Date**: Sept 8-10<br>
+**Location**: Philadelphia
+**Travel Reimbursement**: Yes
+[**Registration**](https://my.pennapps.com/)
 
-
-* PennApps
 * HackMIT
 * [AngelHack](http://angelhack.com/)
 * MHacks, University of Michigan
