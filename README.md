@@ -17,15 +17,21 @@
 **Travel Reimbursement**: Yes<br>
 [**Registration**](https://my.pennapps.com/)<br> Apply by mid July.<br><br>
 
-* [HackMIT](https://hackmit.org/)
+* [HackMIT](https://hackmit.org/)<br>
 **Date**: Sept 16-17<br>
 **Location**: Massachusetts<br>
 **Travel Reimbursement**: Yes<br> upto 500$ for international and 200$ for local.
-[**Registration**]()<br><br>
+[**Registration**] : First solve the puzzles :3 <br><br>
+
+* [Big Red Hacks](https://bigredhacks.com/)<br>
+**Date** : Sept 15-17<br>
+**Location** : Cornell University, Ithaca
+**Travel Reimbursement** : Upto 150$, case by case basis, and bus arrangments
+[**Registration**](https://bigredhacks.com/register) 
+
 
 
 * [AngelHack](http://angelhack.com/)
-* MHacks, University of Michigan
 * [HackNY](http://hackny.org), NYU
 * [HackRU](http://hackru.org), Rutgers University
 * [Pearl Hacks](http://www.pearlhacks.com), University of North Carolina, only for women, no international participants this year
@@ -37,7 +43,6 @@
 * [HackDuke](https://www.hackduke.org/), Duke University
 * [HackNC](https://hacknc.com), University of North Carolina
 * [McHacks](http://mchacks.io/), McGill University
-* [Big Red Hacks](https://bigredhacks.com/), Cornell University
 * [CalHacks](https://calhacks.io/), Berkeley
 * [HackPoly](http://www.hackpoly.com/), Cal Poly Pomona
 * [NW Hacks](https://www.nwhacks.io/), Vancouver, BC
