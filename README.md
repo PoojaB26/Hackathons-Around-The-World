@@ -2,17 +2,18 @@
 
 ## Upcoming Hackathons
 
-* [hack rice](http://hack.rice.edu/)<br>
-**Date**: 22 Sept - 24 Sept 2017<br>
-**Location**: Houston, Texas<br>
-**Travel Reimbursement**: Yes, upto 200$ <br>
-[**Registration Form**](https://hackrice.typeform.com/to/X4d286)<br><br>
-
 * [PennApps](http://2017f.pennapps.com/)<br>
 **Date**: Sept 8-10<br>
 **Location**: Philadelphia<br>
 **Travel Reimbursement**: Yes<br>
 [**Registration**](https://my.pennapps.com/)<br> Apply by mid July.<br><br>
+
+
+* [Big Red Hacks](https://bigredhacks.com/)<br>
+**Date** : Sept 15-17<br>
+**Location** : Cornell University, Ithaca<br>
+**Travel Reimbursement** : Upto 150$, case by case basis, and bus arrangments<br>
+[**Registration**](https://bigredhacks.com/register) <br><br>
 
 * [HackMIT](https://hackmit.org/)<br>
 **Date**: Sept 16-17<br>
@@ -20,11 +21,13 @@
 **Travel Reimbursement**: Yes<br> upto 500$ for international and 200$ for local.
 [**Registration**] : First solve the puzzles :3 <br><br>
 
-* [Big Red Hacks](https://bigredhacks.com/)<br>
-**Date** : Sept 15-17<br>
-**Location** : Cornell University, Ithaca<br>
-**Travel Reimbursement** : Upto 150$, case by case basis, and bus arrangments<br>
-[**Registration**](https://bigredhacks.com/register) <br><br>
+
+* [hack rice](http://hack.rice.edu/)<br>
+**Date**: 22 Sept - 24 Sept 2017<br>
+**Location**: Houston, Texas<br>
+**Travel Reimbursement**: Yes, upto 200$ <br>
+[**Registration Form**](https://hackrice.typeform.com/to/X4d286)<br><br>
+
 
 * [MHacks X](https://mhacks.org/)<br>
 **Date** : Sept 22-24 <br>
