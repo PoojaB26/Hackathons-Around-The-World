@@ -1,15 +1,12 @@
 # Hackathons Around The World (2017)
+
+## Upcoming Hackathons
+
 * [hack rice](http://hack.rice.edu/)<br>
 **Date**: 22 Sept - 24 Sept 2017<br>
 **Location**: Houston, Texas<br>
 **Travel Reimbursement**: Yes, upto 200$ <br>
 [**Registration Form**](https://hackrice.typeform.com/to/X4d286)<br><br>
-
-* [mhacks NANO](https://mhacks.org)<br>
-**Date**: Jun 19 – 24, 2017<br>
-**Location**: *Online*<br>
-**Travel Reimbursement**: N/A<br>
-[**Registration**](https://mhacks.org)<br><br>
 
 * [PennApps](http://2017f.pennapps.com/)<br>
 **Date**: Sept 8-10<br>
@@ -29,7 +26,12 @@
 **Travel Reimbursement** : Upto 150$, case by case basis, and bus arrangments
 [**Registration**](https://bigredhacks.com/register) 
 
-
+## Past Hackathons
+* [mhacks NANO](https://mhacks.org)<br>
+**Date**: Jun 19 – 24, 2017<br>
+**Location**: *Online*<br>
+**Travel Reimbursement**: N/A<br>
+[**Registration**](https://mhacks.org)<br><br>
 
 * [AngelHack](http://angelhack.com/)
 * [HackNY](http://hackny.org), NYU
