@@ -26,6 +26,12 @@
 **Travel Reimbursement** : Upto 150$, case by case basis, and bus arrangments<br>
 [**Registration**](https://bigredhacks.com/register) <br><br>
 
+* [MHacks X](https://mhacks.org/)<br>
+**Date** : Sept 22-24 <br>
+**Location** : University of Michigan, North Carolina<br>
+**Travel Reimbursement** : Yes<br>
+[**Registration**](https://mhacks.org/apply)<br><br>
+
 ## Past Hackathons
 * [mhacks NANO](https://mhacks.org)<br>
 **Date**: Jun 19 – 24, 2017<br>
