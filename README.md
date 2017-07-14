@@ -22,9 +22,9 @@
 
 * [Big Red Hacks](https://bigredhacks.com/)<br>
 **Date** : Sept 15-17<br>
-**Location** : Cornell University, Ithaca
-**Travel Reimbursement** : Upto 150$, case by case basis, and bus arrangments
-[**Registration**](https://bigredhacks.com/register) 
+**Location** : Cornell University, Ithaca<br>
+**Travel Reimbursement** : Upto 150$, case by case basis, and bus arrangments<br>
+[**Registration**](https://bigredhacks.com/register) <br><br>
 
 ## Past Hackathons
 * [mhacks NANO](https://mhacks.org)<br>
